@@ -468,7 +468,7 @@ angular.module('ui.bootstrap.modal', ['ui.bootstrap.multiMap', 'ui.bootstrap.sta
           'class': 'modal',
           'template-url': modal.windowTemplateUrl,
           'window-top-class': modal.windowTopClass,
-          'role': 'dialog',
+          // 'role': 'dialog',
           'aria-labelledby': modal.ariaLabelledBy,
           'aria-describedby': modal.ariaDescribedBy,
           'size': modal.size,
